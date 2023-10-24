@@ -1,11 +1,11 @@
 # [Scrum-Sicer Brito](https://github.com/SicerBrito)🧑‍💻
 Documentación de metodologías 
 
-Que es una metodologia?
+Que es una metodologia?  
 Un conjunto de metodos
 
 
-que es un metodo?
+que es un metodo?  
 un conjunto de practicas
 una estrategia
 una funcion 
