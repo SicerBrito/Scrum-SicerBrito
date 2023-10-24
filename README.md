@@ -6,9 +6,9 @@ Un conjunto de metodos
 
 
 que es un metodo?  
-un conjunto de practicas
-una estrategia
-una funcion 
+un conjunto de practicas  
+una estrategia  
+una funcion   
 
 
 Una metodologia es todo el conjunto de preocesos que medieante una ejecucion procedimental se llegara a una meta final
