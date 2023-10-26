@@ -77,3 +77,36 @@ SCRUM
 | Cada sprint suele durar entre una y cuatro semanas, y al final de cada sprint, el equipo entrega un producto funcional que puede ser utilizado por los usuarios. |
 | Scrum también hace hincapié en la importancia de la comunicación y la colaboración entre los miembros del equipo, así como con los clientes y otras partes interesadas. |
 | Esto ayuda a garantizar que el equipo está trabajando en las cosas correctas y que el producto final satisfaga las necesidades de los usuarios. |
+
+
+
+
+# Metodología en Cascada
+
+**Para poder seguir con la siguiente etapa en la cronología, primero debes terminar la anterior.**
+
+## Cronología
+
+- Requerimiento (Tiene dos tipos funcionales y no funcionales)
+    
+    Los funcionales son lo que se va a hacer y que va tener el software (sin nada técnico).
+    
+    Los no funcionales son las especificaciones de lo que se va a hacer en el software
+    
+    Los requerimientos funcionales es la interacción con el usuario con el sistema y los no funcionales como tal las restricciones y limitaciones los requerimientos funcionales definen lo que el sistema debe hacer, mientras que los requerimientos no funcionales definen como el sistema debe hacerlo
+    
+- Análisis
+- Diseño
+- Programación
+- Pruebas
+- Operaciones
+
+**Aquí hay 5 ejemplos de cómo los requerimientos funcionales y no funcionales están relacionados entre sí (Los ejemplos tienen como base Discord).**
+
+| Ejemplos | Requerimientos | Relación entre si |
+| --- | --- | --- |
+| Primer Ejemplo | **Requerimiento funcional -** Crear grupos: Los usuarios deben poder crear grupos para comunicarse con un grupo de personas.   **Requerimiento no funcional -** Seguridad: El sistema debe proteger los datos de los usuarios de accesos no autorizados. | El requerimiento funcional describe una función específica que el sistema debe realizar, mientras que el requerimiento no funcional describe un atributo de seguridad del sistema. En este caso, el requerimiento funcional describe la capacidad del sistema para crear grupos, mientras que el requerimiento no funcional describe la capacidad del sistema para proteger los datos de los usuarios. |
+| Segundo Ejemplo | **Requerimiento funcional -** Realizar llamadas de voz: Los usuarios deben poder realizar llamadas de voz con otros usuarios.**Requerimiento no funcional -** Eficiencia: El sistema debe ser eficiente en el uso de recursos. | El requerimiento funcional describe una función específica que el sistema debe realizar, mientras que el requerimiento no funcional describe una cualidad de rendimiento del sistema. En este caso, el requerimiento funcional describe la capacidad del sistema para realizar llamadas de voz, mientras que el requerimiento no funcional describe la capacidad del sistema para ser eficiente en el uso de recursos. |
+| Tercer Ejemplo | **Requerimiento funcional -** Realizar llamadas de video: Los usuarios deben poder realizar llamadas de video con otros usuarios **Requerimiento no funcional -** Compatibilidad: El sistema debe ser compatible con los sistemas operativos más populares | El requerimiento funcional describe una función específica que el sistema debe realizar, mientras que el requerimiento no funcional describe una cualidad de compatibilidad del sistema. En este caso, el requerimiento funcional describe la capacidad del sistema para realizar llamadas de video, mientras que el requerimiento no funcional describe la capacidad del sistema para ser compatible con los sistemas operativos más populares. |
+| Cuarto Ejemplo | **Requerimiento funcional -** Notificaciones: Los usuarios deben recibir notificaciones cuando reciban mensajes o llamadas **Requerimiento no funcional -** Usabilidad: El sistema debe ser fácil de usar y comprender. | El requerimiento funcional describe una función específica que el sistema debe realizar, mientras que el requerimiento no funcional describe una cualidad del sistema. En este caso, el requerimiento funcional describe la capacidad del sistema para enviar notificaciones, mientras que el requerimiento no funcional describe la capacidad del sistema para ser fácil de usar. |
+| Quinto Ejemplo | **Requerimiento funcional -** Crear un canal: Los usuarios deben poder crear canales para comunicarse con otros usuarios. **Requerimiento no funcional -** Disponibilidad: El sistema debe estar disponible el 99% del tiempo. | El requerimiento funcional describe una función específica que el sistema debe realizar, mientras que el requerimiento no funcional describe un atributo general del sistema. En este caso, el requerimiento funcional describe la capacidad del sistema para crear canales, mientras que el requerimiento no funcional describe la capacidad del sistema para estar disponible. |
